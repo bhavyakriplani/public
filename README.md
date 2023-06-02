@@ -1,8 +1,6 @@
 import re
 from collections import Counter
 from spellchecker import SpellChecker
-
-# Create an instance of SpellChecker
 spell = SpellChecker()
 
 # Use the spellchecker instance to perform spell checking
